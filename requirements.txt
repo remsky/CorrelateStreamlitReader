@@ -89,7 +89,6 @@ pycparser==2.21
 pydantic==1.8.2
 pydeck==0.7.1
 Pygments==2.10.0
-pyLDAvis==3.3.1
 pymed==0.8.9
 Pympler==1.0.1
 pyOpenSSL==22.0.0
@@ -151,4 +150,4 @@ win-inet-pton==1.1.0
 wincertstore==0.2
 wordcloud==1.8.1
 zipp==3.7.0
-https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz
